@@ -1,3 +1,3 @@
 # vanilla-js-boilerplate
 
-vanilla-js-boilerplate with webpack 5
+vanilla-js-boilerplate with webpack
